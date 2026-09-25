@@ -43,9 +43,9 @@ Below is a curated comparison of leading commercial Fine-Grained Authorization S
 
 ## ⚡ Open-Source GitHub Projects 🛠️
 
-Top open-source authorization engines, libraries, and policy runners sorted by **GitHub Star Count** (descending):
+Top open-source authorization engines, libraries, and policy runners sorted by **GitHub Stars_Count** (descending):
 
-| Repository | GitHub Stars ⭐ | Description | License |
+| Repository | GitHub_Stars ⭐ | Description | License |
 | :--- | :--- | :--- | :--- |
 | **[Casbin](https://github.com/casbin/casbin)** | [![Casbin Stars](https://img.shields.io/github/stars/casbin/casbin?style=social&color=white)](https://github.com/casbin/casbin/stargazers) | Powerful and efficient open-source access control library supporting ACL, RBAC, ABAC, and RESTful permissions. | Apache-2.0 |
 | **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** | [![OPA Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) | CNCF graduate general-purpose policy engine for unified policy enforcement across microservices, Kubernetes, & CI/CD. | Apache-2.0 |
